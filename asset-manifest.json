@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/static/css/main.3a3e21fb.css",
-    "main.js": "/static/js/main.53bc378f.js",
-    "static/js/453.6bae3356.chunk.js": "/static/js/453.6bae3356.chunk.js",
-    "static/media/logo.svg": "/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
-    "index.html": "/index.html",
-    "main.3a3e21fb.css.map": "/static/css/main.3a3e21fb.css.map",
-    "main.53bc378f.js.map": "/static/js/main.53bc378f.js.map",
-    "453.6bae3356.chunk.js.map": "/static/js/453.6bae3356.chunk.js.map"
+    "main.css": "/toy-simulator/static/css/main.3a3e21fb.css",
+    "main.js": "/toy-simulator/static/js/main.e86ea80b.js",
+    "static/js/453.6bae3356.chunk.js": "/toy-simulator/static/js/453.6bae3356.chunk.js",
+    "static/media/logo.svg": "/toy-simulator/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/toy-simulator/index.html",
+    "main.3a3e21fb.css.map": "/toy-simulator/static/css/main.3a3e21fb.css.map",
+    "main.e86ea80b.js.map": "/toy-simulator/static/js/main.e86ea80b.js.map",
+    "453.6bae3356.chunk.js.map": "/toy-simulator/static/js/453.6bae3356.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.3a3e21fb.css",
-    "static/js/main.53bc378f.js"
+    "static/js/main.e86ea80b.js"
   ]
 }
